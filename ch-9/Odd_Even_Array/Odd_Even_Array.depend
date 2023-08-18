@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661320526 source:c:\users\surendra\documents\odd_even_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661325631 source:c:\users\surendra\documents\ch-9\odd_even_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

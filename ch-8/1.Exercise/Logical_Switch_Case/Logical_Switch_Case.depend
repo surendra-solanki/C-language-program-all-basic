@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659525448 source:c:\users\surendra\documents\logical_switch_case\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1659954790 source:c:\users\surendra\documents\ch-8\1.exercise\logical_switch_case\main.c
+	<stdio.h>
+	<stdlib.h>
+

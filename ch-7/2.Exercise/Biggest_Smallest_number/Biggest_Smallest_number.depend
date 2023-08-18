@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659431678 source:c:\users\surendra\documents\biggest_smallest_number\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1659761474 source:c:\users\surendra\documents\ch-7\2.exercise\biggest_smallest_number\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658400707 source:c:\users\surendra\documents\for-loop\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658471580 source:c:\users\surendra\documents\ch-3\for-loop\main.c
+	<stdio.h>
+	<stdlib.h>
+

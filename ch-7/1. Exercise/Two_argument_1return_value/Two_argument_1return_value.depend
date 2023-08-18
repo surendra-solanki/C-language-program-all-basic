@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659429540 source:c:\users\surendra\documents\two_argument_1return_value\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1659429754 source:c:\users\surendra\documents\ch-7\1. exercise\two_argument_1return_value\main.c
+	<stdio.h>
+	<stdlib.h>
+

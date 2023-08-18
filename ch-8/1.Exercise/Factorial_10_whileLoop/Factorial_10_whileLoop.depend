@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659519579 source:c:\users\surendra\documents\factorial_10_whileloop\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1659690841 source:c:\users\surendra\documents\ch-8\1.exercise\factorial_10_whileloop\main.c
+	<stdio.h>
+	<stdlib.h>
+

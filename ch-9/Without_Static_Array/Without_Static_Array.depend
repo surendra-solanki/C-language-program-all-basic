@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1662440624 source:c:\users\surendra\documents\without_static_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1665122009 source:c:\users\surendra\documents\ch-9\without_static_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

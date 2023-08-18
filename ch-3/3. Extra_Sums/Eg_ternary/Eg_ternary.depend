@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658740509 source:c:\users\surendra\documents\eg_ternary\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658740509 source:c:\users\surendra\documents\ch-3\3. extra_sums\eg_ternary\main.c
+	<stdio.h>
+	<stdlib.h>
+

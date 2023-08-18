@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661255545 source:c:\users\surendra\documents\return_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661318834 source:c:\users\surendra\documents\ch-9\return_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

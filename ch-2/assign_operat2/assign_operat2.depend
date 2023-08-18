@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1658484547 source:c:\users\surendra\documents\assign_operat2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1666250210 source:c:\users\surendra\documents\ch-2\assign_operat2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

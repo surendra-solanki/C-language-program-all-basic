@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662704253 source:c:\users\surendra\documents\upper_to_lower_vic.versa\main.c
+	<stdio.h>
+	<stdlib.h>
+

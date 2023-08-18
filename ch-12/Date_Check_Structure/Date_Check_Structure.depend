@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663825159 source:c:\users\surendra\documents\date_check_structure\main.c
+	<stdio.h>
+	<string.h>
+

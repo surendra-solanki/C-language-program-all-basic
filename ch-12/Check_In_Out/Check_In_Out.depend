@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663647882 source:c:\users\surendra\documents\check_in_out\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1663654682 source:c:\users\surendra\documents\c program\ch-12\check_in_out\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663652269 source:c:\users\surendra\documents\employee_check_id\main.c
+	<stdio.h>
+	<string.h>
+

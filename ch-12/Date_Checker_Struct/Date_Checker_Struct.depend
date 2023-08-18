@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1663922277 source:c:\users\surendra\documents\date_checker_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1663993363 source:c:\users\surendra\documents\ch-12\date_checker_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662538849 source:c:\users\surendra\documents\print_char_arrray\main.c
+	<stdio.h>
+	<stdlib.h>
+

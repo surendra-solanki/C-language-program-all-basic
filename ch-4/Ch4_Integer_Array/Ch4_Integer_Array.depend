@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658985185 source:c:\users\surendra\documents\ch4_integer_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

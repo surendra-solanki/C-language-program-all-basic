@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1658922816 source:c:\users\surendra\documents\ex1_ch_5.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1658990346 source:c:\users\surendra\documents\ch-5\1. exercise\ex1_ch_5.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

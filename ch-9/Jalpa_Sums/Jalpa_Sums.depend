@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661832669 source:c:\users\surendra\documents\jalpa_sums\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1690800889 source:c:\users\surendra\documents\c program\ch-9\jalpa_sums\main.c
+	<stdio.h>
+	<stdlib.h>
+

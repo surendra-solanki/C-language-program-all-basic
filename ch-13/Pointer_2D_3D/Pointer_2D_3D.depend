@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665209388 source:c:\users\surendra\documents\pointer_2d_3d\main.c
+	<stdio.h>
+	<stdlib.h>
+

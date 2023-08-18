@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1658554965 source:c:\users\surendra\documents\chap3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1658554965 source:c:\users\surendra\documents\ch-3\z. exercise\chap3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

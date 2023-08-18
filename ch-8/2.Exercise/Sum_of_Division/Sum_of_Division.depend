@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659527662 source:c:\users\surendra\documents\sum_of_division\main.c
+	<stdio.h>
+	<stdlib.h>
+

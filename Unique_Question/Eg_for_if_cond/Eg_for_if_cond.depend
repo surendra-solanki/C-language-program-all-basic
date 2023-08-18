@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658898042 source:c:\users\surendra\documents\eg_for_if_cond\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

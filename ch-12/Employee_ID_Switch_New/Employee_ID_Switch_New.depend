@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1663744452 source:c:\users\surendra\documents\employee_id_switch_new\main.c
+	<stdio.h>
+	<string.h>
+
+1663744452 source:c:\users\surendra\documents\c program\ch-12\employee_id_switch_new\main.c
+	<stdio.h>
+	<string.h>
+

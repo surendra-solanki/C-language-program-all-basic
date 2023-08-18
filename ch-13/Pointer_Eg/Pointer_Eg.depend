@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1665643013 source:c:\users\surendra\documents\pointer_eg\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1682506533 source:c:\users\surendra\documents\c program\ch-13\pointer_eg\main.c
+	<stdio.h>
+	<stdlib.h>
+

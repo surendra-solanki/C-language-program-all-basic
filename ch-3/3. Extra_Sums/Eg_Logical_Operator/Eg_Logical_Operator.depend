@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658742126 source:c:\users\surendra\documents\eg_logical_operator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658812496 source:c:\users\surendra\documents\ch-3\3. extra_sums\eg_logical_operator\main.c
+	<stdio.h>
+	<stdlib.h>
+

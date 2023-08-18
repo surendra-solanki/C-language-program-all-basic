@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1659430406 source:c:\users\surendra\documents\bike_average\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1659763190 source:c:\users\surendra\documents\ch-7\2.exercise\bike_average\main.c
+	<stdio.h>
+

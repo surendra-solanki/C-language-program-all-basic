@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662179573 source:c:\users\surendra\documents\array_function_mainprint\main.c
+	<stdio.h>
+	<stdlib.h>
+

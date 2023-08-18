@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659352742 source:c:\users\surendra\documents\ex2_ch_6.22\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1659424512 source:c:\users\surendra\documents\ch-6\2.exercise\ex2_ch_6.22\main.c
+	<stdio.h>
+	<stdlib.h>
+

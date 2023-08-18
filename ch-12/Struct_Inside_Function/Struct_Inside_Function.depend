@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664166194 source:c:\users\surendra\documents\struct_inside_function\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1664166194 source:c:\users\surendra\documents\ch-12\struct_inside_function\main.c
+	<stdio.h>
+	<stdlib.h>
+

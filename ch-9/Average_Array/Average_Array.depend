@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661230197 source:c:\users\surendra\documents\average_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661317744 source:c:\users\surendra\documents\c program\ch-9\average_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

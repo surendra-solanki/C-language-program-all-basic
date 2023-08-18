@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661158581 source:c:\users\surendra\documents\array_num\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661158581 source:c:\users\surendra\documents\ch-9\1.exercise\array_num\main.c
+	<stdio.h>
+	<stdlib.h>
+

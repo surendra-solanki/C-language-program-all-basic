@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662535613 source:c:\users\surendra\documents\calculate_avg_marks\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665981927 source:c:\users\surendra\documents\char_calloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684403468 source:c:\users\surendra\documents\c program\ch-13\char_calloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

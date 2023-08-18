@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660045558 source:c:\users\surendra\documents\continue_case\main.c
+	<stdio.h>
+	<stdlib.h>
+

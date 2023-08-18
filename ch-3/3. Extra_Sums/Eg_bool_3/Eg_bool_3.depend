@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1658738954 source:c:\users\surendra\documents\eg_bool_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1658739090 source:c:\users\surendra\documents\ch-3\3. extra_sums\eg_bool_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

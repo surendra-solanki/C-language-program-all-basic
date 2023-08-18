@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658731856 source:c:\users\surendra\documents\eg_if_cond_easy_3\main.c
+	<stdio.h>
+	<stdlib.h>
+

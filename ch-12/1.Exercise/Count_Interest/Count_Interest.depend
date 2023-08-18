@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663144079 source:c:\users\surendra\documents\count_interest\main.c
+	<stdio.h>
+	<stdlib.h>
+

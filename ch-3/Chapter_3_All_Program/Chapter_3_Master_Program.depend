@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1658815297 source:c:\users\surendra\documents\chapter_3_master_program\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658816339 source:c:\users\surendra\documents\chapter_3_all_program\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658833900 source:c:\users\surendra\documents\ch-3\chapter_3_all_program\main.c
+	<stdio.h>
+	<stdlib.h>
+

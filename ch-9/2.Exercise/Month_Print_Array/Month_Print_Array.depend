@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1661171537 source:c:\users\surendra\documents\month_print_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1661402260 source:c:\users\surendra\documents\ch-9\2.exercise\month_print_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1658553320 source:c:\users\surendra\documents\digit_number\main.c
+	<stdio.h>
+
+1659769090 source:c:\users\surendra\documents\unique_question\digit_number\main.c
+	<math.h>
+	<stdio.h>
+

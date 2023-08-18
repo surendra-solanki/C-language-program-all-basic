@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1661167957 source:c:\users\surendra\documents\user_input\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661168383 source:c:\users\surendra\documents\ch-9\user_input\main.c
+	<stdio.h>
+	<stdlib.h>
+

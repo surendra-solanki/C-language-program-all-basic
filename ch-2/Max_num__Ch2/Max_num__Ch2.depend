@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658397415 source:c:\users\surendra\documents\max_num__ch2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658571628 source:c:\users\surendra\documents\ch-2\max_num__ch2\main.c
+	<stdio.h>
+	<stdlib.h>
+

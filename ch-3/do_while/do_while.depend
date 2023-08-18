@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1658406941 source:c:\users\surendra\documents\do_while\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1658463719 source:c:\users\surendra\documents\ch-3\do_while\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

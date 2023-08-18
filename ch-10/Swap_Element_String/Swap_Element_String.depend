@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662962428 source:c:\users\surendra\documents\swap_element_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661169227 source:c:\users\surendra\documents\find_repeat_number\main.c
+	<stdio.h>
+	<stdlib.h>
+
